@@ -67,7 +67,7 @@ and module exploration.
 3.  Run:
 
     ``` bash
-    python multi_utility_toolkit_fixed.py
+    python ModularAndPackage.py
     ```
 
     On some systems, you may need to use `python3` instead of `python`.
@@ -82,8 +82,8 @@ and module exploration.
 ## Project Structure
 
 ``` text
-Module-Package-Toolkit/
-├── multi_utility_toolkit_fixed.py
+ModularAndPackage/
+├── ModularAndPackage.py
 └── README.md
 ```
 
